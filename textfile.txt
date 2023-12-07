@@ -4,3 +4,4 @@ log,status.
 diff.
 reflog
 stash
+stashing.
