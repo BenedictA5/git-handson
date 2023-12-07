@@ -2,3 +2,5 @@ basic commands of git.
 add,commit.
 log,status.
 diff.
+reflog
+stash
