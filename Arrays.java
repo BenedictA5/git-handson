@@ -17,7 +17,7 @@ public class Arrays {
 		}
 		return max;
 	}
-
+}
 	public static void main(String[] args) {
 
 		int[] arr = {4,6,7,2,8}; 
@@ -26,4 +26,4 @@ public class Arrays {
 		//since Min and Max are static methods we can call them method using class name
 		System.out.println(Array.Max(arr));
 	}
-}
+
