@@ -1,4 +1,4 @@
-public class Array {
+public class Arrays {
 	public static int Min(int[] arr) {
 		int min =arr[0];
 		for(int i=1;i<arr.length;i++) {
